@@ -60,18 +60,9 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codeiyeahh&show_icons=true&theme=tokyonight" alt="Dev's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeiyeahh&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🏆 Badges & Achievements  
 <p>
   <img src="https://img.shields.io/badge/Coursera%20ML-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20IT%20Support-green?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 

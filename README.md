@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F78E2F&center=true&vCenter=true&multiline=true&width=600&lines=Bridging+Healthcare+and+AI+%F0%9F%A9%BA;+Techie+by+Day%2C+Innovator+by+Night+%F0%9F%8C%9C;Building+Predictive+Models+%26+Clean+UIs+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">⚕️ Healthcare + AI = Impact | 🏎️ F1 Fanatic | 🧠 Deep Learning Explorer | 💬 Always up for a great conversation</p>
-
 ---
 
 🔧 **What I Work With**
